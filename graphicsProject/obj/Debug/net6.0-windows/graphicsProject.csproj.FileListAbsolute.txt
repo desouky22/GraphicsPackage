@@ -1,0 +1,17 @@
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\bin\Debug\net6.0-windows\graphicsProject.exe
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\bin\Debug\net6.0-windows\graphicsProject.deps.json
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\bin\Debug\net6.0-windows\graphicsProject.runtimeconfig.json
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\bin\Debug\net6.0-windows\graphicsProject.dll
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\bin\Debug\net6.0-windows\graphicsProject.pdb
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.csproj.AssemblyReference.cache
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.Form1.resources
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.csproj.GenerateResource.cache
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.AssemblyInfoInputs.cache
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.AssemblyInfo.cs
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.csproj.CoreCompileInputs.cache
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.dll
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\refint\graphicsProject.dll
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.pdb
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\graphicsProject.genruntimeconfig.cache
+D:\cSharpProjects\CSharpAndBackEnd\graphicsProject\obj\Debug\net6.0-windows\ref\graphicsProject.dll
